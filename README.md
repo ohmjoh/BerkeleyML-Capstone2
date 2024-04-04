@@ -48,11 +48,11 @@ The data contains industry trends, investment insights, and individual company i
 #### Methodology
 I followed these steps:
 
-Data Cleaning and Preprocessing: Removed unnecessary columns and handled outliers in the 'avg_participants' column.
-Exploratory Data Analysis (EDA): Explored the distribution of the target variable, categorical variables, and continuous variables through visualizations.
-Feature Engineering: Label encoded categorical variables.
-Model Selection and Training: Used three classification models - Logistic Regression, Random Forest, and Support Vector Machine (SVM) for prediction.
-Model Evaluation: Evaluated the models based on accuracy scores and classification reports.
+- Data Cleaning and Preprocessing: Removed unnecessary columns and handled outliers in the 'avg_participants' column.
+- Exploratory Data Analysis (EDA): Explored the distribution of the target variable, categorical variables, and continuous variables through visualizations.
+- Feature Engineering: Label encoded categorical variables.
+- Model Selection and Training: Used three classification models - Logistic Regression, Random Forest, and Support Vector Machine (SVM) for prediction.
+- Model Evaluation: Evaluated the models based on accuracy scores and classification reports.
 
 
 #### Results
