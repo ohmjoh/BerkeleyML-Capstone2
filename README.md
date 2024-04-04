@@ -58,9 +58,9 @@ I followed these steps:
 #### Results
 The predictive model achieved the following accuracies:
 
-Logistic Regression Accuracy: 74.53%
-Random Forest Accuracy: 79.80%
-SVM Accuracy: 73.68%
+- Logistic Regression Accuracy: 74.53%
+- Random Forest Accuracy: 79.80%
+- SVM Accuracy: 73.68%
 
 Key features contributing to startup success, based on the Random Forest model, include:
 
