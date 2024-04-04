@@ -77,7 +77,7 @@ Further analysis can be conducted to:
 - Explore advanced machine learning techniques
 
 #### Outline of project
-[Link to the Jupyter Notebook](https://)
+[Link to the Jupyter Notebook](https://github.com/ohmjoh/BerkeleyML-Capstone2/blob/main/Startup%20Success%20Prediction.ipynb)
 
 - Exploratory Data Analysis (EDA) and Visualization
 - Data Cleaning and Preprocessing
